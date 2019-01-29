@@ -3,7 +3,7 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Location__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Geolocation</label>
